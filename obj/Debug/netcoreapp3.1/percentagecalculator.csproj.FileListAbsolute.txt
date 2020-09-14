@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\percentagecalculator\percentagecalculator\obj\Debug\netcoreapp3.1\percentagecalculator.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\percentagecalculator\percentagecalculator\obj\Debug\netcoreapp3.1\percentagecalculator.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\percentagecalculator\percentagecalculator\obj\Debug\netcoreapp3.1\percentagecalculator.AssemblyInfo.cs
+C:\Users\opilane\source\repos\percentagecalculator\percentagecalculator\obj\Debug\netcoreapp3.1\percentagecalculator.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\percentagecalculator\percentagecalculator\bin\Debug\netcoreapp3.1\percentagecalculator.exe
+C:\Users\opilane\source\repos\percentagecalculator\percentagecalculator\bin\Debug\netcoreapp3.1\percentagecalculator.deps.json
+C:\Users\opilane\source\repos\percentagecalculator\percentagecalculator\bin\Debug\netcoreapp3.1\percentagecalculator.runtimeconfig.json
+C:\Users\opilane\source\repos\percentagecalculator\percentagecalculator\bin\Debug\netcoreapp3.1\percentagecalculator.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\percentagecalculator\percentagecalculator\bin\Debug\netcoreapp3.1\percentagecalculator.dll
+C:\Users\opilane\source\repos\percentagecalculator\percentagecalculator\bin\Debug\netcoreapp3.1\percentagecalculator.pdb
+C:\Users\opilane\source\repos\percentagecalculator\percentagecalculator\obj\Debug\netcoreapp3.1\percentagecalculator.dll
+C:\Users\opilane\source\repos\percentagecalculator\percentagecalculator\obj\Debug\netcoreapp3.1\percentagecalculator.pdb
+C:\Users\opilane\source\repos\percentagecalculator\percentagecalculator\obj\Debug\netcoreapp3.1\percentagecalculator.genruntimeconfig.cache
